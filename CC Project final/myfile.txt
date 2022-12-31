@@ -1,0 +1,43 @@
+
+interface J{}
+final class B  {
+    private int c;
+    float c;
+    def B(int r){
+        this.c=90;
+    }
+    basic void def main (int a){
+    int d ;
+    }
+}
+abstract class A extends B {
+    int b;
+    #B b = new B(4);#
+    int a;
+    a = 90;
+    #b.c = a;#
+basic void def main (){
+    int d ;
+     super.c = d;
+}
+    super.c = 90 ; 
+   # int b = 9;#
+    float sdfdsfds ;
+    final float x = 1.2 , v  ;
+
+    
+
+
+}
+
+class main{
+   int res ;
+    public static basic void def main (){
+        
+        A a = new A(5);
+        B b = new B(4);
+        
+       this.res = a.b * b.c + a.b ; 
+    
+    }
+}
